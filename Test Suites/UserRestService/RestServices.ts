@@ -13,13 +13,13 @@
    <testCaseLink>
       <guid>2efce02b-76ba-434b-9956-052d0e600e20</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/TestHTTPMethods</testCaseId>
    </testCaseLink>
    <testCaseLink>
       <guid>b43ab679-548f-4080-8bd7-09c4042b36ba</guid>
       <isReuseDriver>false</isReuseDriver>
-      <isRun>false</isRun>
+      <isRun>true</isRun>
       <testCaseId>Test Cases/GetBankDetails</testCaseId>
    </testCaseLink>
    <testCaseLink>
